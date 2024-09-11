@@ -408,6 +408,10 @@ section .container {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+  .text-justify .content {
+    text-align: justify;
+  }
+
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
